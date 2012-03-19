@@ -1,0 +1,24 @@
+package patentretrieval;
+
+public enum DocTags {
+	DOCNO,
+	APPNO,
+	APPDATE,
+	PUBNO,
+	PUBTYPE,	
+	PUBDATE,	
+	PATNO,	
+	PATTYPE,	
+	PRIIPC,	
+	IPCVER,	
+	PRIUSPC,	
+	PRIORITY,	
+	CITATION,	
+	INVENTOR,	
+	ASSIGNEE,	
+	TITLE,	
+	ABST,		
+	SPEC,		
+	CLAIM,
+	NOVAL
+}
